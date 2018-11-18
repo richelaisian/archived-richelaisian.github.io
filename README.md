@@ -1,5 +1,5 @@
-Damiano Gui - portfolio
+MJL - Portfolio
 =========
-This is a collection of my main projects.
+Projects.
 
-The website is built with [Jekyll](http://jekyllrb.com) and hosted on [Github pages](https://pages.github.com). Feel free to look at the [sourcecode](https://github.com/damianogui/playground) and [play around with it](http://codepen.io/damianogui/pen/LRWXmZ).
+Built with [Jekyll](http://jekyllrb.com); hosted on [Github pages](https://pages.github.com).
