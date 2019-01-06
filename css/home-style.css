@@ -1,5 +1,5 @@
 html {
-  background-color: #F9F9F9;
+  background-color: #FFFFFF;
   padding: 0px 0px 0px 0px;
   height: 100%;
 }
@@ -20,7 +20,7 @@ p,
 li,
 ul {
   font-family: 'Karla', sans-serif;
-  color: #0000FF;
+  color: #000000;
   padding: 0px;
   line-height: 130%;
   font-size: 24pt;
