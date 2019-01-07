@@ -120,7 +120,7 @@ a:hover span {
     opacity: 0;
     content: attr(alt);
     color: #0000FF;
-    font-size: 14pt;
+    font-size: 18pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
@@ -141,7 +141,7 @@ a:hover span {
   }
 
   p, li, ul {
-    font-size: 14pt;
+    font-size: 18pt;
   }
 
   .footer-left, .footer-right, .footer-center {
@@ -157,7 +157,7 @@ a:hover span {
     opacity: 1;
     content: attr(alt);
     color: #0000FF;
-    font-size: 14pt;
+    font-size: 18pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
