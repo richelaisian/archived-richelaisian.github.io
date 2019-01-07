@@ -12,7 +12,7 @@ body {
 }
 
 .page {
-  margin: 0% 5% 0% 5%;
+  margin: 0% 3% 0% 3%;
   color: #0000FF;
 }
 
@@ -29,7 +29,7 @@ ul {
 }
 
 p {
-  margin-top: 3px;
+  margin-top: 2px;
 }
 
 #footer {
@@ -120,11 +120,11 @@ a:hover span {
     opacity: 0;
     content: attr(alt);
     color: #0000FF;
-    font-size: 10pt;
+    font-size: 14pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
-    margin-left: 10px;
+    margin-left: 5px;
     transition: opacity 0.5s ease-in-out;
     transform: translateX(20px);
     transition: all 0.5s ease-out;
@@ -141,7 +141,7 @@ a:hover span {
   }
 
   p, li, ul {
-    font-size: 10pt;
+    font-size: 14pt;
   }
 
   .footer-left, .footer-right, .footer-center {
@@ -157,7 +157,7 @@ a:hover span {
     opacity: 1;
     content: attr(alt);
     color: #0000FF;
-    font-size: 10pt;
+    font-size: 14pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
