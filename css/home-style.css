@@ -24,6 +24,7 @@ ul {
   padding: 0px;
   line-height: 130%;
   font-size: 36pt;
+  font-weight: bold;
   list-style: none;
   -webkit-font-smoothing: antialiased;
 }
