@@ -1,8 +1,8 @@
-name: MJL - Portfolio
+name: Peter De Oliveira
 markdown: kramdown
 baseurl: ""
 highlighter: rouge
 permalink: /:year/:month/:title/
 author:
-    name: MJL
+    name: Peter De Oliveira
     twitter:
