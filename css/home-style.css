@@ -12,7 +12,7 @@ body {
 }
 
 .page {
-  margin: 0% 3% 0% 3%;
+  margin: 0% 2% 0% 2%;
   color: #0000FF;
 }
 
@@ -23,13 +23,13 @@ ul {
   color: #000000;
   padding: 0px;
   line-height: 130%;
-  font-size: 36pt;
+  font-size: 40pt;
   list-style: none;
   -webkit-font-smoothing: antialiased;
 }
 
 p {
-  margin-top: 2px;
+  margin-top: 1px;
 }
 
 #footer {
@@ -120,7 +120,7 @@ a:hover span {
     opacity: 0;
     content: attr(alt);
     color: #0000FF;
-    font-size: 18pt;
+    font-size: 20pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
@@ -141,7 +141,7 @@ a:hover span {
   }
 
   p, li, ul {
-    font-size: 18pt;
+    font-size: 20pt;
   }
 
   .footer-left, .footer-right, .footer-center {
@@ -157,7 +157,7 @@ a:hover span {
     opacity: 1;
     content: attr(alt);
     color: #0000FF;
-    font-size: 18pt;
+    font-size: 20pt;
     font-weight: bold;
     display: inline-block;
     position: static !important;
