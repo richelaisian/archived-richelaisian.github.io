@@ -18,7 +18,7 @@
   font-family: 'Moderat';
   src: url('Moderat-Light.eot');
   src: local('Moderat Light'), local('Moderat-Light'), url('Moderat-Light.eot?#iefix') format('embedded-opentype'), url('Moderat-Light.woff2') format('woff2'), url('Moderat-Light.woff') format('woff');
-  font-weight: light;
+  font-weight: lighter;
   font-style: normal;
 }
 
