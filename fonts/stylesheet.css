@@ -18,7 +18,7 @@
   font-family: 'Moderat';
   src: url('Moderat-Light.eot');
   src: local('Moderat Light'), local('Moderat-Light'), url('Moderat-Light.eot?#iefix') format('embedded-opentype'), url('Moderat-Light.woff2') format('woff2'), url('Moderat-Light.woff') format('woff');
-  font-weight: 300;
+  font-weight: 200;
   font-style: normal;
 }
 
@@ -26,6 +26,6 @@
   font-family: 'Moderat';
   src: url('Moderat-Thin.eot');
   src: local('Moderat Thin'), local('Moderat-Thin'), url('Moderat-Thin.eot?#iefix') format('embedded-opentype'), url('Moderat-Thin.woff2') format('woff2'), url('Moderat-Thin.woff') format('woff');
-  font-weight: 200;
+  font-weight: 100;
   font-style: normal;
 }
