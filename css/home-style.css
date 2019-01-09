@@ -12,7 +12,7 @@ body {
 }
 
 .page {
-  margin: 0% 1.5% 0% 1.5%;
+  margin: 0% 2% 0% 2%;
   color: #0000FF;
 }
 
@@ -125,6 +125,11 @@ b {
   -moz-transition: background-color 0.5s ease-in-out;
   -o-transition: background-color 0.5s ease-in-out;
   transition: background-color 0.5s ease-in-out;
+}
+
+b:hover, b:focus {
+  background-color: #FFFFFF;
+  color: #0000FF;
 }
 
 
