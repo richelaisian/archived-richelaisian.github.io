@@ -22,10 +22,3 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'Moderat';
-  src: url('Moderat-Thin.eot');
-  src: local('Moderat Thin'), local('Moderat-Thin'), url('Moderat-Thin.eot?#iefix') format('embedded-opentype'), url('Moderat-Thin.woff2') format('woff2'), url('Moderat-Thin.woff') format('woff');
-  font-weight: lighter;
-  font-style: normal;
-}
