@@ -13,3 +13,19 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Moderat';
+  src: url('Moderat-Light.eot');
+  src: local('Moderat Light'), local('Moderat-Light'), url('Moderat-Light.eot?#iefix') format('embedded-opentype'), url('Moderat-Light.woff2') format('woff2'), url('Moderat-Light.woff') format('woff');
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Moderat';
+  src: url('Moderat-Thin.eot');
+  src: local('Moderat Thin'), local('Moderat-Thin'), url('Moderat-Thin.eot?#iefix') format('embedded-opentype'), url('Moderat-Thin.woff2') format('woff2'), url('Moderat-Thin.woff') format('woff');
+  font-weight: thin;
+  font-style: normal;
+}
